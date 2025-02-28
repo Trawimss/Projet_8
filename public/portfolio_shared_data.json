@@ -40,24 +40,15 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Express",
+          "class": "devicon-express-original",
           "level": "75"
         },
+
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "75"
         }
       ]
     }

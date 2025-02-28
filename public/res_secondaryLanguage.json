@@ -23,14 +23,6 @@
           {
             "class": "devicon-react-original",
             "name": "React"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
         ]
       },
@@ -45,12 +37,13 @@
         "url": "https://github.com/Trawimss/Projet-2.git",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
+          
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
@@ -66,15 +59,17 @@
         "technologies": [
           {
             "class": "devicon-nodejs-plain",
-            "name": "Angular"
+            "name": "Node.js"
           },
+          
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+
           {
             "class": "devicon-mongodb-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-express-plain",
-            "name": "C#"
+            "name": "MongoDB"
           }
         ]
       }
